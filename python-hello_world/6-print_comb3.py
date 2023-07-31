@@ -6,7 +6,7 @@ for i in range(45):
         print("{:02}" .format(i+j), end="\n")
       else:
          print("{:02}" .format(i+j), end=", " )
-         
+        #  
 
 
 

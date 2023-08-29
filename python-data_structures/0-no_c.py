@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Check for c took me days to figure out but is ok
+#  Check for c took me days to figure out but is ok
 
 
 def no_c(my_str):
